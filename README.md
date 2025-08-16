@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dilovan (@Delo1999)
 - 👀 I’m interested in coding, games, boardgames, training, traveling & networking.
-- 📫 How to reach me? You can reach me here on Github or via email at dilovanhassan@hotmail.com
+- 📫 How to reach me? You can reach me here on Github, on LinkedIn: https://www.linkedin.com/in/dilovan-hassan/ or via email at dilovanhassan@hotmail.com
 - Feel free to check out my portfolio down below☺️
 - 💼 Portfolio: https://Dilovan.dev
 
